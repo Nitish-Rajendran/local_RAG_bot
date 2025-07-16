@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./rag/qa",
+        "./rag/ingestion/src"
+    ]
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+rag/local/
+data/
+models/
+vector_db/
+.DS_Store
+*.sqlite3

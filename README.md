@@ -4,6 +4,12 @@ A modular, fully local Retrieval-Augmented Generation (RAG) system for private d
 
 ---
 
+## Output Demo Video
+
+Watch Demo [Click Here](https://drive.google.com/file/d/1XVxNRioGGvOZVXlPEPoU6YchgXfieihX/view?usp=sharing)
+
+---
+
 ## Features
 
 - **Local-first**: All processing and LLM inference run on your machine.
